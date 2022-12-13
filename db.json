@@ -1,64 +1,101 @@
-{
-    "users": [
-      {
-        "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
-      },
-      {
-        "id": 2,
-        "name": "Gail Newbatt",
-        "age": 53,
-        "email": "gnewbatt1@un.org"
-      },
-      {
-        "id": 3,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
-      },
-      {
-        "id": 4,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com"
-      },
-      {
-        "id": 5,
-        "name": "Roda Chappelow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au"
-      },
-      {
-        "id": 6,
-        "name": "Karney Wylie",
-        "age": 22,
-        "email": "kwylie5@miitbeian.gov.cn"
-      },
-      {
-        "id": 7,
-        "name": "Cammi Pimbley",
-        "age": 63,
-        "email": "cpimbley6@nyu.edu"
-      },
-      {
-        "id": 8,
-        "name": "Gavra Manning",
-        "age": 43,
-        "email": "gmanning7@lycos.com"
-      },
-      {
-        "id": 9,
-        "name": "Zachary Seward",
-        "age": 45,
-        "email": "zseward8@oracle.com"
-      },
-      {
-        "id": 10,
-        "name": "Chucho Norssister",
-        "age": 20,
-        "email": "cnorssister9@mayoclinic.com"
-      }
-    ]
-  }
+[
+    {
+        "id":1,
+      "carousel-main__image src": "https://img.shop.com/Image/240000/243400/243406/products/1909263005.jpg?plain&size=300x300",
+      "carousel-main__item-title": "Men's Tech Down Shirt Jacket with Box Quilt Jacket",
+      "carousel-main__item-price": "$119.20",
+      "price-slash": "$298.00",
+      "collapse-text": "Regular",
+      "collapse-text 2": "On sale,",
+      "reward": "$2.38 / 2% Cashback",
+      "qa-coupon-prod-link": "",
+      "qa-coupon-prod-link href": "",
+      "box__dashed-gray": "",
+      "qa-prod-ship-promo-msg": ""
+    },
+
+    {
+        "id":2,
+      "carousel-main__image src": "https://img.shop.com/Image/270000/278100/278132/products/1958146916.jpg?plain&size=300x300",
+      "carousel-main__item-title": "Charter Club Button-Shoulder Cable-Knit Sweater, Created for Macy's",
+      "carousel-main__item-price": "$35.70",
+      "price-slash": "$59.50",
+      "collapse-text": "Regular",
+      "collapse-text 2": "On sale,",
+      "reward": "$0.71 / 2% Cashback",
+      "qa-coupon-prod-link": "",
+      "qa-coupon-prod-link href": "",
+      "box__dashed-gray": "",
+      "qa-prod-ship-promo-msg": ""
+    },
+    {
+        "id":3,
+      "carousel-main__image src": "https://img.shop.com/Image/280000/288000/288080/products/1892927179.jpg?plain&size=300x300",
+      "carousel-main__item-title": "Beach Hair - Black Top Quality Fashion Women's Top",
+      "carousel-main__item-price": "$20.00",
+      "price-slash": "",
+      "collapse-text": "",
+      "collapse-text 2": "",
+      "reward": "$1.60 / 8% Cashback",
+      "qa-coupon-prod-link": "15% off $40 order with coupon –",
+      "qa-coupon-prod-link href": "https://www.shop.com/Beach+Hair+Black+Top+Quality+Fashion+Womens+Top-1892927179-p+.xhtml",
+      "box__dashed-gray": "GIFTS",
+      "qa-prod-ship-promo-msg": "Free shipping with $40.00 orders"
+    },
+    {
+        "id":4,
+      "carousel-main__image src": "https://img.shop.com/Image/290000/292900/292998/products/1954865423.jpg?plain&size=300x300",
+      "carousel-main__item-title": "Vegan Leather Pocket Pants Plus Size",
+      "carousel-main__item-price": "$54.00",
+      "price-slash": "",
+      "collapse-text": "",
+      "collapse-text 2": "",
+      "reward": "$5.40 / 10% Cashback",
+      "qa-coupon-prod-link": "10% off with coupon –",
+      "qa-coupon-prod-link href": "https://www.shop.com/Vegan+Leather+Pocket+Pants+Plus+Size-1954865423-p+.xhtml",
+      "box__dashed-gray": "curvyclothes",
+      "qa-prod-ship-promo-msg": "Free shipping with $50.00 orders"
+    },
+    {
+        "id":5,
+      "carousel-main__image src": "https://img.shop.com/Image/240000/243400/243406/products/1948833308.jpg?plain&size=300x300",
+      "carousel-main__item-title": "Crwth Men's Moto Sweater",
+      "carousel-main__item-price": "$195.00",
+      "price-slash": "",
+      "collapse-text": "",
+      "collapse-text 2": "",
+      "reward": "$3.90 / 2% Cashback",
+      "qa-coupon-prod-link": "",
+      "qa-coupon-prod-link href": "",
+      "box__dashed-gray": "",
+      "qa-prod-ship-promo-msg": ""
+    },
+    {
+        "id":6,
+      "carousel-main__image src": "https://img.shop.com/Image/270000/274900/274929/products/1923331899.jpg?plain&size=300x300",
+      "carousel-main__item-title": "Smiths Workwear Mens Jacket, Medium , Gray",
+      "carousel-main__item-price": "$74.19",
+      "price-slash": "$133.00",
+      "collapse-text": "Regular",
+      "collapse-text 2": "On sale,",
+      "reward": "$1.48 / 2% Cashback",
+      "qa-coupon-prod-link": "",
+      "qa-coupon-prod-link href": "",
+      "box__dashed-gray": "",
+      "qa-prod-ship-promo-msg": ""
+    },
+    {
+        "id":7,
+      "carousel-main__image src": "https://img.shop.com/Image/270000/274900/274929/products/1928586675.jpg?plain&size=300x300",
+      "carousel-main__item-title": "White Mark Midweight Motorcycle Jacket, Large , Black",
+      "carousel-main__item-price": "$69.99",
+      "price-slash": "",
+      "collapse-text": "",
+      "collapse-text 2": "",
+      "reward": "$1.40 / 2% Cashback",
+      "qa-coupon-prod-link": "",
+      "qa-coupon-prod-link href": "",
+      "box__dashed-gray": "",
+      "qa-prod-ship-promo-msg": ""
+    }
+  ]
