@@ -4032,5 +4032,14 @@
       "price": "$13.78",
       "code": "8MNBYT"
     }
+  ],
+  "users": [
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "password": "",
+      "contact": ""
+    }
   ]
 }
